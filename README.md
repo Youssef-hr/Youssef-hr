@@ -27,7 +27,7 @@
 <a href="https://www.leetcode.com/u/youssef-hr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/youssef-hr/" height="30" width="40" /></a>
 </p>
 
-## :hammer_and_wrench: My arsenal:
+## :hammer_and_wrench: Arsenal:
 ### Programming Languages:
 <div style="display:flex; justify-content: center; gap: 3px;">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" width="40" title="html" alt="html">&nbsp;
