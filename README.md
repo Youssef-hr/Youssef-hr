@@ -47,7 +47,6 @@
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" title="metasploit" alt="metasploit" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgZR5qtuDw07UehLiI0saFHc2_wu9HH01_D9LfJ1ARjRIsP9hC-Ym39oj82z05KCLslw" title="burpsuite" alt="burpsuite" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://frida.re/img/logotype.svg" title="frida" alt="frida" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
 </div>
 
