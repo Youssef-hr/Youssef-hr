@@ -1,8 +1,13 @@
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/1d8d80b1-1ae5-4974-9e7f-f0457c1fe76e" width="150"/>
+  <div id="badges" >
+  </div>
+</div>
 
 <h1 align="center">Hi 👋, I'm Youssef Hossam</h1>
 <h3 align="center">Junior Penetration tester</h3>
 </h1>
-
+    
 ## About me 
   - I enjoy learning at every possible opertunity 
   - Feel free to connect and ask anything on your mind regarding the field  
