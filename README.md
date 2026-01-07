@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Junior Penetration tester</h3>
+<h3 align="center">Junior SOC Analyst</h3>
 </h1>
     
 ## About me 
