@@ -16,6 +16,10 @@
   - Still a Junior, open to advice and criticisim 
 
 ## Skills 
+- **SIEM Management**
+- **Malware Analysis**
+- **Threat Detection**
+- **Incident Response**
 - **Web Application Pentesting**
 - **Network Pentesting**
 <h3 align="left">Connect with me:</h3>
